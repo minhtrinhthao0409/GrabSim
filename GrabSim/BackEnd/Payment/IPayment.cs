@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OOP_Project.Payment
+namespace GrabSim.BackEnd.Payment
 {
     public delegate void PaymentProcessedEventHandler(object sender, PaymentEventArgs e);
     public interface IPayment

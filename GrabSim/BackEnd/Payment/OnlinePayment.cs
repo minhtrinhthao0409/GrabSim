@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OOP_Project.Payment
+namespace GrabSim.BackEnd.Payment
 {
     public class OnlinePayment : IPayment
     {
